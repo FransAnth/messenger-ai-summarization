@@ -1,0 +1,71 @@
+# ============================================================================
+# Python Virtual Environments
+# ============================================================================
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ============================================================================
+# Python System & Cache Files
+# ============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ============================================================================
+# Testing & Jupyter Notebooks
+# ============================================================================
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.cache
+htmlcov/
+.ipynb_checkpoints/
+
+# ============================================================================
+# Environment Variables (Keep your secrets secret!)
+# ============================================================================
+# Do NOT commit files containing private API keys or database passwords
+.env
+.venv
+env/
+*.env
+*.env.local
+
+# ============================================================================
+# Operating System Clutter
+# ============================================================================
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+messages/

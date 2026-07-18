@@ -1,0 +1,1121 @@
+[
+  {
+    "name": "alfonzoreyes_099871591851",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Alfonzo Reyes"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Alfonzo Reyes",
+        "content": "Good day Spectroplus! Inquire sana ako for custom house construction package. Project info:\n\nName: Alfonzo Reyes\nProject Type: 2-Storey Modern Industrial Residential Build (approx 160 sqm floor area)\nLocation: Lot 4 Blk 11, Orchard Estate, Brgy. Salitran IV, Dasmariñas, Cavite\nContact Number: 0915-333-4455\n\nHoping to get a rough price assessment framework for materials and complete structural labor. Thanks!",
+        "timestamp": "August 17, 2026 at 07:00:00 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hello Sir Alfonzo! Thank you for the complete specifications. A 160 sqm 2-storey house fits perfectly on that lot layout size. Yes, we provide full structural architectural services. Do you have a preferred floor layout concept in mind (number of rooms, balcony layout, etc.)?",
+        "timestamp": "August 17, 2026 at 07:03:20 AM UTC"
+      },
+      {
+        "sender_name": "Alfonzo Reyes",
+        "content": "Salamat sa reply! We prefer an open floor layout paradigm with high structural ceilings sana. Looking forward to your response regarding the price matrix parameters.",
+        "timestamp": "August 17, 2026 at 07:46:40 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Noted on the layout details, Sir Alfonzo! An open layout with high ceilings is a beautiful choice. Our engineering estimator is currently computing the structural material requirements. We will send you the basic estimate range by this coming Wednesday afternoon. Thank you for your patience!",
+        "timestamp": "August 17, 2026 at 08:23:20 AM UTC"
+      },
+      {
+        "sender_name": "Alfonzo Reyes",
+        "content": "Hi Spectroplus team, follow up ko lang po sana ito? Sabi niyo nung Wednesday isesend niyo yung basic framework estimate costs computation para macheck namin.",
+        "timestamp": "August 20, 2026 at 08:20:00 AM UTC"
+      },
+      {
+        "sender_name": "Alfonzo Reyes",
+        "content": "Mukhang hindi niyo na po aasikasuhin itong project design proposal namin. It's been over two weeks since the promised deadline. Maghahanap na lang kami ng ibang design and build crew na mas responsive. Sayang.",
+        "timestamp": "August 24, 2026 at 08:26:40 AM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Dropped Follow-Up",
+      "summary": "Alfonzo Reyes reached out to Spectroplus for a custom 160 sqm 2-storey modern industrial residential project in Dasmariñas, Cavite. While the initial engagement was promising with quick responses from the company, the process stalled after Spectroplus failed to deliver a promised estimate by the following Wednesday. Consequently, the client grew frustrated by the lack of communication and officially ended the inquiry to seek other providers.",
+      "analytics": {
+        "user_behavior": "The client was a high-intent lead who provided detailed project specifications and clear preferences immediately. They demonstrated professional courtesy by waiting past the deadline before following up and eventually terminating the lead once their expectations for responsiveness were not met.",
+        "company_performance": "Spectroplus exhibited poor follow-through. Despite a strong initial response time, the company failed to meet its own deadline and subsequently ghosted the client for two weeks, directly resulting in the loss of a qualified, high-value project.",
+        "next_best_action": "Since the client has already expressed intent to look elsewhere, an immediate, humble apology acknowledging the failure to meet the deadline is required. While the lead is effectively lost, the company should conduct an internal audit of their quoting process to ensure estimator delays are communicated to the client before the deadline passes in future interactions."
+      }
+    }
+  },
+  {
+    "name": "alvinpanganiban_37586123512125",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Dr. Alvin Panganiban"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Dr. Alvin Panganiban",
+        "content": "Hello, looking for an experienced design and build team for my new branch office. Please see details:\n\nName: Dr. Alvin Panganiban\nProject: Dental Clinic Renovation & Commercial Fit-out (65 sqm floor area with X-ray room)\nAddress: Unit 304, 3rd Floor, Corporate Plaza, Alabang, Muntinlupa City\nContact Number: 0917-888-1122\n\nDo you have experience building clinics with complex structural plumbing requirements?",
+        "timestamp": "July 11, 2026 at 09:40:00 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Dr. Alvin! Thank you for messaging Spectroplus. Yes, we specialize in commercial medical and dental clinic fit-outs, ensuring compliance with local health department structural standards. We checked your floor plan draft and we can accommodate 3 treatment rooms in that area.",
+        "timestamp": "July 11, 2026 at 10:40:00 AM UTC"
+      },
+      {
+        "sender_name": "Dr. Alvin Panganiban",
+        "content": "Looks great! Importante sa akin na heavy duty yung materials for the dental chairs drainage plumbing line at insulation dun sa X-ray room. Can you send the formal contract and proposal overview so I can check your terms?",
+        "timestamp": "July 12, 2026 at 10:40:00 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Understood, Doc. For medical/dental setups, we exclusively use premium lead-lined drywall panels for the X-ray section and medical-grade seamless vinyl flooring for easy sanitation. Attached here is our formal commercial fit-out proposal and breakdown contract.",
+        "timestamp": "July 13, 2026 at 10:40:00 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Good day Dr. Alvin! Just following up if you have any questions regarding the mobilization terms or the milestone payment structure we drafted? We can adjust the phases to align with your preference.",
+        "timestamp": "July 15, 2026 at 10:40:00 AM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Active Pipeline",
+      "summary": "Dr. Alvin Panganiban is seeking a design and build team for a 65 sqm dental clinic renovation in Alabang, specifically requesting technical expertise in dental chair plumbing and X-ray room shielding. Spectroplus responded promptly, confirming their specialization and providing a formal proposal and contract. The company has followed up on the proposal, but the client has not yet responded to the milestone structure and mobilization terms.",
+      "analytics": {
+        "user_behavior": "High-intent client with a clear project scope and specific technical requirements; communication is professional and deadline-oriented.",
+        "company_performance": "Excellent initial engagement; the company demonstrated technical competence, provided necessary documentation, and performed timely follow-ups.",
+        "next_best_action": "Since the client hasn't replied to the follow-up, send a low-pressure message asking if he would like to schedule a site visit or a brief call to discuss the milestone payment structure in person."
+      }
+    }
+  },
+  {
+    "name": "arnelbautista_47615129419208451",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Arnel Bautista"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Arnel Bautista",
+        "content": "Hi Spectroplus team! Inquire sana ako para magpatayo ng bahay. Complete details below:\n\nName: Arnel Bautista\nProject: 2-Storey Modern Residential House (3 Bedrooms)\nLocation: Phase 2, Golden Horizon Subdivision, Brgy. Hugo Perez, General Trias, Cavite\nContact Number: 0917-765-4321\n\nMay basic sketch plan na ako mula sa lot title blueprint. Pwede ba kayo tumawag bukas?",
+        "timestamp": "July 31, 2026 at 07:00:00 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Good day, Sir Arnel! Thank you very much for providing your complete details. A 3-bedroom modern home is perfect for a 120 sqm lot in General Trias. One of our engineers will call you on your mobile number tomorrow morning to discuss the design package and free estimation process. Speak with you soon!",
+        "timestamp": "July 31, 2026 at 07:13:20 AM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Active Pipeline",
+      "summary": "Arnel Bautista is inquiring about constructing a 2-storey, 3-bedroom modern residential house in Golden Horizon Subdivision, General Trias, Cavite. The client has already provided complete project details and a preliminary sketch based on his lot title. Spectroplus responded promptly, confirming the project scope and scheduling a follow-up call with an engineer for the following morning.",
+      "analytics": {
+        "user_behavior": "High-intent lead who is organized, clear about requirements, and ready to move to the consultation phase.",
+        "company_performance": "Excellent initial response time; the company demonstrated professionalism by validating the project scope and setting a clear expectation for the next step.",
+        "next_best_action": "Ensure the engineer calls the client at the agreed-upon time and is prepared with a basic design consultation script and information on the site survey process."
+      }
+    }
+  },
+  {
+    "name": "biancatorres_5916561512",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Bianca Torres"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Bianca Torres",
+        "content": "Hello, inquire po ako for a commercial renovation package. Details below:\n\nName: Bianca Torres\nProject Type: Commercial Spa & Wellness Clinic Fit-out (80 sqm leased space area)\nAddress: Unit 105, Ground Floor, Central Commercial Plaza, Brgy. Palico IV, Imus, Cavite\nContact Number: 0927-444-9988\n\nKailangan na po namin magka-site inspection layout design map configuration mapping parameters to submit to mall developers. Available po ba kayo this week for site check?",
+        "timestamp": "August 12, 2026 at 03:53:20 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Good day Ms. Bianca! Thank you for the detailed information. We handle commercial interior fit-outs and workspace renovations regularly. We have an open slot for a technical ocular inspection at your leased space tomorrow morning around 10:00 AM. Pwede po ba natin i-lock in?",
+        "timestamp": "August 12, 2026 at 03:56:40 PM UTC"
+      },
+      {
+        "sender_name": "Bianca Torres",
+        "content": "Perfect, sige po. Kita na lang tayo sa site layout details building complex entrance panel tomorrow morning. Salamat!",
+        "timestamp": "August 12, 2026 at 04:20:00 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Thank you for welcoming our team earlier, Ms. Bianca! The measurements for the plumbing channels and partition points are complete. Our architects will prepare the initial 3D design concept rendering and project timeline overview. Give us 5 working days to draft everything for you.",
+        "timestamp": "August 13, 2026 at 04:20:00 PM UTC"
+      },
+      {
+        "sender_name": "Bianca Torres",
+        "content": "Hi Spectroplus team! Follow up ko lang po yung initial 3D design concept model presentation at pricing draft blueprint? Mahigit isang linggo na po kasi tapos nung ocular inspection visit sa property space framework location natin.",
+        "timestamp": "August 19, 2026 at 12:53:20 PM UTC"
+      },
+      {
+        "sender_name": "Bianca Torres",
+        "content": "Hello? Any updates? Nakakahiya naman sa building manager outline namin, tinatanong na ako kung kailan ipapasa yung structural design guidelines template overview. Pakisabi naman kung hindi niyo na itutuloy para hindi kami umaasa sa wala.",
+        "timestamp": "August 23, 2026 at 01:00:00 PM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Dropped Follow-Up",
+      "summary": "Bianca Torres reached out for a commercial spa and wellness clinic fit-out in Imus, Cavite, leading to a successful initial site inspection on August 13th. The company promised deliverables within 5 working days, but failed to provide the 3D design concept and pricing draft. The client has since sent two follow-up messages expressing frustration due to mounting pressure from her building manager.",
+      "analytics": {
+        "user_behavior": "The client is highly motivated, professional, and time-sensitive, as evidenced by her clear project requirements and the urgency caused by mall developer deadlines.",
+        "company_performance": "The company initially performed well with rapid lead qualification and site visit scheduling but failed significantly by missing the 5-day commitment and ghosting the client, jeopardizing a high-value commercial project.",
+        "next_best_action": "The company must immediately apologize for the delay, provide a concrete timeline for the delivery of the designs today, and offer a gesture of goodwill (such as a discount or expedited project timeline) to rebuild trust."
+      }
+    }
+  },
+  {
+    "name": "christianpineda_6125619825125",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Engr. Christian Pineda"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Engr. Christian Pineda",
+        "content": "Good day. Inquire ako para sa residential family lot project ko. Here are the details:\n\nName: Engr. Christian Pineda\nProject Type: 2-Storey Modern Duplex Residential House (for my parents and my sibling)\nAddress: Blk 12 Lot 3, Meadowood Executive Village, Brgy. Panapaan VIII, Bacoor, Cavite\nContact Number: 0920-444-1122\n\nMay basic structural drafting concepts na akong nagawa, looking for a construction partner framework to execute the build phase. Let me know when we can talk over the phone. Thanks.",
+        "timestamp": "July 26, 2026 at 08:23:20 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Welcome to Spectroplus, Engr. Christian! Building a duplex for your parents is a wonderful project. We are highly experienced with firewall layouts and structural zoning guidelines in Bacoor. Let's arrange a brief introductory brief discovery call today at your convenience.",
+        "timestamp": "July 26, 2026 at 08:36:40 AM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Active Pipeline",
+      "summary": "Engr. Christian Pineda reached out regarding a construction partnership for a 2-storey modern duplex residential project in Meadowood Executive Village, Bacoor, Cavite. He has already prepared basic structural drafting concepts and is specifically seeking a partner for the execution phase. The company responded quickly to acknowledge the project and requested a discovery call, leaving the interaction at the scheduling stage.",
+      "analytics": {
+        "user_behavior": "The client is a professional (Engineer) with a high level of preparedness and clear project specifications, indicating high intent and a streamlined decision-making process.",
+        "company_performance": "The company demonstrated excellent response time and professionalism, immediately pivoting to a discovery call to convert the lead into a live consultation.",
+        "next_best_action": "Follow up with a calendar link or three specific time slots for the discovery call to minimize friction and secure the meeting before the client explores other contractors."
+      }
+    }
+  },
+  {
+    "name": "clarisseramos_76712412412412",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Clarisse Ramos"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Clarisse Ramos",
+        "content": "Good day! I would like to request a quote for a commercial fit-out project. Details below:\n\nName: Clarisse Ramos\nProject Type: Coffee Shop Interior Renovation / Fit-out (45 sqm bare space)\nLocation: Unit G-2, The Strip Mall, Aguirre Ave, BF Homes, Parañaque City\nContact Number: 0918-987-6543\n\nOpen po ba kayo for ocular this week?",
+        "timestamp": "July 08, 2026 at 03:03:20 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Perfect space for a cozy setup, Clarisse! We handle commercial fit-outs regularly. We can schedule an ocular inspection this Tuesday to get the exact structural measurements. Would you like us to prepare a preliminary 3D draft as well?",
+        "timestamp": "July 08, 2026 at 03:23:20 PM UTC"
+      },
+      {
+        "sender_name": "Clarisse Ramos",
+        "content": "Yes please! Yung Industrial Cozy theme sana like what you did with your commercial project last year. Excited to see the initial quotation.",
+        "timestamp": "July 08, 2026 at 03:36:40 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Clarisse! Attached here is the formal 3D concept layout and the material specifications for the cafe fit-out. Let us know if you want to revise any of the lighting setup or counter finishes.",
+        "timestamp": "July 09, 2026 at 03:30:00 PM UTC"
+      },
+      {
+        "sender_name": "Clarisse Ramos",
+        "content": "Hi Spectroplus, sorry for the late update. We love the proposal, but we have to hold the construction project for now. Nagkaproblema kasi sa partner budget breakdown. We will message you again once we're ready to resume. Thank you so much for your time!",
+        "timestamp": "July 10, 2026 at 03:40:00 PM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Closed-Lost",
+      "summary": "Clarisse Ramos requested a commercial fit-out quote for a 45 sqm coffee shop in Parañaque City. Spectroplus provided a prompt 3D concept layout and material specifications. The client ultimately decided to pause the project indefinitely due to internal partnership budget issues.",
+      "analytics": {
+        "user_behavior": "The client was highly engaged, professional, and clear about her requirements, but she demonstrated a clear pivot once internal financial obstacles arose.",
+        "company_performance": "Spectroplus performed exceptionally well with very fast response times and high-quality deliverables that clearly met the client's design expectations.",
+        "next_best_action": "Mark this lead as 'Paused/Future Opportunity' in the CRM and schedule an automated follow-up check-in for 90 days from now to see if their budget situation has stabilized."
+      }
+    }
+  },
+  {
+    "name": "davealcantara_971624151251",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Dave Alcantara"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Dave Alcantara",
+        "content": "Hello Spectroplus team, saw your residential project feature on Facebook. Inquire sana ako if you build outdoor pools. Details:\n\nName: Dave Alcantara\nProject: 4m x 8m Custom Concrete Infinity Pool with Composite Wood Decking\nLocation/Address: Lot 14 Phase 3, Ridgeview Heights, Brgy. San Roque, Antipolo City, Rizal\nContact Number: 0927-777-8899\n\nOur backyard terrain is a bit sloped. Looking forward to your response on structural safety for this.",
+        "timestamp": "July 03, 2026 at 05:58:20 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Dave! Thank you for considering Spectroplus. Yes, we design and construct custom concrete swimming pools with composite wood decking. We handle everything from excavation, structural plumbing, to filtration systems. Let us review the slope details.",
+        "timestamp": "July 03, 2026 at 06:06:40 PM UTC"
+      },
+      {
+        "sender_name": "Dave Alcantara",
+        "content": "Medyo sloping yung backyard field namin kaya concern ko talaga is structural safety at drainage. Do you use poured concrete or block structures for pool walls? I want to make sure it lasts.",
+        "timestamp": "July 03, 2026 at 06:43:20 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "For a 4m x 8m infinity pool on a sloping terrain, we highly recommend using a concrete pile foundation to avoid land slippage. Estimated cost ranges from 1.2M to 1.5M inclusive of heavy retaining wall work. To give you an exact price, we would need a quick ground ocular. When is your preferred schedule?",
+        "timestamp": "July 03, 2026 at 06:56:40 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Dave! Just following up if you'd like to lock in the site visit slot this Wednesday afternoon? Our structural engineer is available to check the soil stability for the pool foundation.",
+        "timestamp": "July 05, 2026 at 07:33:20 PM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Active Pipeline",
+      "summary": "Dave Alcantara is inquiring about the construction of a 4m x 8m custom concrete infinity pool with composite wood decking in Antipolo City. The project site features a sloped backyard, raising concerns about structural safety and drainage, which the company has addressed by recommending a concrete pile foundation and retaining walls. The company has provided a rough cost estimate and is currently pushing for a site visit with their structural engineer.",
+      "analytics": {
+        "user_behavior": "The client is highly informed and cautious, focusing on technical longevity and soil stability rather than just aesthetics or price. His detailed initial inquiry indicates high intent and readiness to proceed if safety concerns are addressed.",
+        "company_performance": "The company has demonstrated excellent responsiveness, with quick initial replies and clear, value-add technical advice. They proactively initiated a follow-up to secure a site visit, maintaining momentum in the sales cycle.",
+        "next_best_action": "If the client does not respond to the Wednesday slot, offer alternative times for the ocular visit or provide a case study of a similar sloped project they have completed to build further trust. The focus must remain on overcoming the client's structural anxiety to secure the site visit."
+      }
+    }
+  },
+  {
+    "name": "dianarosecruz_687512869586151",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Diana Rose Cruz"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Diana Rose Cruz",
+        "content": "Hello Spectroplus, inquire sana ako regarding structural design and construction management parameters. Plan namin ipagiba yung lumang bahay ng lola ko then build a new structure compound. Property specs below:\n\nName: Diana Rose Cruz\nProject: 3-Storey Modern Townhouse / Residential Multi-Family Complex (approx 220 sqm total floor area structural profile)\nAddress: 18 Katipunan Avenue Extension, Brgy. Blue Ridge A, Quezon City\nContact Number: 0905-222-9911\n\nKasama na po ba building permit clearance layout processing structures and demolition management protocols sa systems operations framework package parameters niyo? Paki-message po ako if available dynamic processing discussion details. Thanks!",
+        "timestamp": "August 12, 2026 at 04:46:40 AM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Unanswered Inbound",
+      "summary": "The client is inquiring about structural design and construction management services for a 3-storey modern townhouse project located in Quezon City. She is specifically asking if the company's service package includes building permit processing, demolition management, and structural layouts for her approximately 220 sqm project. The inquiry is detailed and provides specific contact information and property specifications, indicating a high level of project readiness.",
+      "analytics": {
+        "user_behavior": "The client is highly motivated, professional, and has provided all necessary information upfront, suggesting a serious intent to proceed with a qualified contractor.",
+        "company_performance": "The company has failed to acknowledge or respond to the inquiry since it was sent, resulting in a missed opportunity to engage a high-value lead.",
+        "next_best_action": "Immediately contact the client via the provided mobile number or chat to acknowledge the inquiry, confirm capabilities regarding permit processing and demolition, and schedule an initial site consultation."
+      }
+    }
+  },
+  {
+    "name": "elenatorres_325416161161",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Elena Torres (Logistics Corp)"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Elena Torres (Logistics Corp)",
+        "content": "Hi, I am looking for a contractor to handle industrial maintenance works for our company. Here are the details of our requirement:\n\nName: Elena Torres (Procurement Officer, Nexus Logistics Corp)\nProject: 400 sqm Warehouse Roofing Rehabilitation & Structural Truss Reinforcement\nAddress: Logistics Hub Compound, Pier 4, North Harbor, Tondo, Manila\nContact Number: (02) 8244-1122 ext 104 / 0922-888-9900\n\nCan you send an engineer for an immediate site inspection?",
+        "timestamp": "July 04, 2026 at 12:55:00 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Good day Ms. Elena. Yes, Spectroplus handles industrial warehouse projects and roofing rehabilitations. We use high-grade long-span rib-type insulated panels to minimize internal heat and ensure structural integrity. We can arrange an ocular visit tomorrow morning.",
+        "timestamp": "July 04, 2026 at 01:03:20 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Ms. Elena! Following up on the formal proposal we submitted yesterday for the warehouse roofing overhaul. We can offer a flexible milestone payment schedule if that helps match your quarterly budget.",
+        "timestamp": "July 06, 2026 at 01:23:20 AM UTC"
+      },
+      {
+        "sender_name": "Elena Torres (Logistics Corp)",
+        "content": "Hello. I would like to inform you that management decided to go with an in-house local contractor instead. Your breakdown was very professional and detailed, but your price is a bit higher than our allocated maintenance budget. Thank you anyway.",
+        "timestamp": "July 07, 2026 at 01:53:20 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Understood, Ms. Elena. We understand that pricing is a big factor for maintenance works. If ever you need structural warranty works or heavy engineering reinforcements in the future, Spectroplus is here to help.",
+        "timestamp": "July 07, 2026 at 02:06:40 AM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Closed-Lost",
+      "summary": "Elena Torres from Nexus Logistics Corp requested a site inspection for a 400 sqm warehouse roofing and structural truss project in North Harbor, Manila. Spectroplus responded promptly and provided a formal proposal, but the client ultimately declined the offer. The lead chose an in-house local contractor due to pricing constraints, despite expressing appreciation for the professionalism and detail provided by Spectroplus.",
+      "analytics": {
+        "user_behavior": "The client displayed high intent and professional communication, clearly defined their project scope, and provided an honest, constructive reason for rejection (price sensitivity).",
+        "company_performance": "Spectroplus demonstrated excellent responsiveness, professional follow-up, and a graceful exit, maintaining a positive relationship even after the loss.",
+        "next_best_action": "Tag this contact as a long-term prospect and initiate a quarterly check-in sequence to monitor the performance of the chosen local contractor, as the client may return if quality issues arise with the cheaper alternative."
+      }
+    }
+  },
+  {
+    "name": "gilbertsantos_13756912562",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Gilbert Santos"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Gilbert Santos",
+        "content": "Hello Spectroplus team. Nareceive ko na yung summary list ng BOQ cost elements. Sobrang detalyado, salamat. Kaya lang medyo lumagpas kami ng 200k sa maximum allocated ceiling na handa naming gastusin ngayon. May items ba tayong pwedeng mapalitan or ma-adjust sa structural interior material specifications para bumaba?",
+        "timestamp": "August 05, 2026 at 08:40:00 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Sir Gilbert! Yes, we can definitely do value engineering adjustments to achieve your target budget constraint. If we substitute the solid hardwood flooring with heavy-duty SPC vinyl planks, and use premium grade granite instead of custom quartz stone for the kitchen countertops, we can slash around 185,000 PHP from the total initial estimate. The structural structural integrity will remain 100% exactly the same.",
+        "timestamp": "August 06, 2026 at 08:40:00 AM UTC"
+      },
+      {
+        "sender_name": "Gilbert Santos",
+        "content": "Perfect, malaking bawas din pala sa construction total structure price configuration. Sige po, paki-update yung structural layout grid proposal document para mapirmahan na natin at makapag-down payment na kami for mobilization works.",
+        "timestamp": "August 07, 2026 at 08:40:00 AM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Active Pipeline",
+      "summary": "Gilbert Santos is requesting adjustments to the Bill of Quantities (BOQ) to bring his construction project within his budget ceiling. Spectroplus successfully proposed value engineering options, specifically switching to SPC vinyl and granite to reduce costs by 185,000 PHP. The client has accepted these changes and is now waiting for the updated proposal to proceed with signing the contract and submitting the down payment.",
+      "analytics": {
+        "user_behavior": "Highly engaged and decisive; the client clearly understands his budget constraints and is ready to convert once the documentation reflects the agreed-upon changes.",
+        "company_performance": "Excellent responsiveness and technical competency; the company quickly provided a viable solution to the budget objection, effectively moving the lead toward conversion.",
+        "next_best_action": "Immediately send the updated structural layout and BOQ for his signature to facilitate the mobilization down payment and secure the project start date."
+      }
+    }
+  },
+  {
+    "name": "gracemendoza_75185149164412",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Grace Mendoza"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Grace Mendoza",
+        "content": "Hi, nagpapatayo ba kayo ng single-detached concrete houses? Magkano po pagawa?",
+        "timestamp": "July 30, 2026 at 10:43:20 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hello Grace! Thank you for messaging us. Yes, we design and build modern homes. Where is your lot located?",
+        "timestamp": "July 30, 2026 at 10:53:20 AM UTC"
+      },
+      {
+        "sender_name": "Grace Mendoza",
+        "content": "Dito po sa Vigan City, Ilocos Sur. May ongoing operations or team ba kayo rito sa bandang North area?",
+        "timestamp": "July 30, 2026 at 11:05:00 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Ms. Grace. Thank you for the details. As much as we would love to build your dream home, Ilocos Sur is currently outside our operational area. Spectroplus only caters to projects within Metro Manila and CALABARZON to ensure strict engineering supervision. We hope you find a great local contractor there!",
+        "timestamp": "July 30, 2026 at 11:30:00 AM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "New & Out-of-Scope",
+      "summary": "The client inquired about the company's capability to build a single-detached concrete house in Vigan City, Ilocos Sur. The company responded promptly to identify the location of the project. After determining the site is outside their operational coverage area of Metro Manila and CALABARZON, the company politely declined the project.",
+      "analytics": {
+        "user_behavior": "The client is a direct lead looking for construction services with clear project parameters and location details, demonstrating a high degree of intent but ultimately mismatched geography.",
+        "company_performance": "The company performance was excellent, demonstrating a fast response time and providing a clear, transparent explanation for why they could not accept the project, thus maintaining professional standards.",
+        "next_best_action": "No further action is required as the inquiry is out-of-scope; the file should be archived as a closed, non-conversion lead due to geographical limitations."
+      }
+    }
+  },
+  {
+    "name": "jasminecruz_17981761236",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Jasmine Cruz"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Ms. Jasmine! Confirming our schedule for the structural site inspection check this coming Sunday (July 26) at 9:30 AM. May we request the exact pinned address location link or special directions for our service vehicle?",
+        "timestamp": "August 04, 2026 at 01:06:40 AM UTC"
+      },
+      {
+        "sender_name": "Jasmine Cruz",
+        "content": "Here is the exact map pin link location po: https://maps.google.com/xyz. Inform ko na rin yung security office ng subdivision cluster framework para hindi kayo harangin sa gate entrance path. Kailangan niyo lang po mag-iwan ng private engineering business company ID.",
+        "timestamp": "August 04, 2026 at 01:53:20 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Received the pinned site location link, Ms. Jasmine. We noted the gate protocol rules. Our engineering supervisor and lot layout team will bring the ground testing kit and electronic rangefinders. We'll be arriving at exactly 9:30 AM this Sunday.",
+        "timestamp": "August 05, 2026 at 01:53:20 AM UTC"
+      },
+      {
+        "sender_name": "Jasmine Cruz",
+        "content": "Got it. Paki-text na lang po ako sa contact layout number ko kapag malapit na kayo sa main highway parameter. See you on Sunday morning, safe trip sa engineering crew niyo!",
+        "timestamp": "August 06, 2026 at 01:53:20 AM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Active Pipeline",
+      "summary": "Jasmine Cruz is coordinating a structural site inspection with the Spectroplus engineering team for her project. The client has provided a map pin for her location and cleared the engineering team's entry with her subdivision's security office. The inspection is scheduled for this Sunday at 9:30 AM, with clear protocols for arrival and access established.",
+      "analytics": {
+        "user_behavior": "The client is proactive, highly cooperative, and clearly motivated to move the project forward, as evidenced by her efforts to ensure seamless site access.",
+        "company_performance": "Spectroplus is maintaining excellent professional standards with timely confirmations and clear communication regarding their arrival and logistical requirements.",
+        "next_best_action": "Ensure the site inspection team is fully briefed on the security protocols, maintains the requested contact schedule upon approaching the highway, and delivers a professional, punctual arrival to maintain client trust."
+      }
+    }
+  },
+  {
+    "name": "jaspercruz_616412512515125",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Jasper Cruz"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Jasper Cruz",
+        "content": "Hello Spectroplus, my cousin highly recommended your team. Ask ko lang kung tumatanggap kayo ng home extension/renovation projects? Ito po details ko:\n\nName: Jasper Cruz\nProject: Second Floor Addition / Home Extension (Lightweight steel structure design)\nLocation: 45 Internal Road, Metroville Subdivision, Brgy. San Vista, Pasig City\nContact Number: 0905-555-4321\n\nKailangan ko po sana ng custom plans and BOQ for bank financing application.",
+        "timestamp": "July 05, 2026 at 11:30:00 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Jasper, thanks for reaching out. Yes, we do home extensions. Our structural engineers will need to verify the existing columns first to make sure they can support a lightweight steel frame second-floor addition. We'll put together the blueprint and BOQ you need for the bank.",
+        "timestamp": "July 05, 2026 at 11:21:40 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Sent! Please check your email for the complete structural assessment report and signed blueprints for your bank application. Looking forward to starting the construction soon!",
+        "timestamp": "July 06, 2026 at 11:40:00 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Good day Jasper! Just checking if the bank required any adjustments to the building plans or Bill of Quantities (BOQ) we sent over? We can modify them for you right away.",
+        "timestamp": "July 07, 2026 at 11:50:00 AM UTC"
+      },
+      {
+        "sender_name": "Jasper Cruz",
+        "content": "Hi sir, mukhang matatagalan pa approval ng home loan namin sa bank, may compliance issues daw po sa family lot terms. Hold muna natin yung blueprint contract sign. Pasensya na talaga sa abala.",
+        "timestamp": "July 08, 2026 at 12:00:00 PM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Closed-Lost",
+      "summary": "Jasper Cruz inquired about a second-floor home extension in Pasig City, specifically requesting custom plans and a BOQ for bank financing. Spectroplus responded promptly, conducted a structural assessment, and provided the necessary documentation within 24 hours. The client has requested to put the project on hold due to unforeseen compliance issues regarding his bank loan application.",
+      "analytics": {
+        "user_behavior": "High-intent lead who provided all necessary documentation and project specifics upfront; communication was professional and transparent regarding their financial constraints.",
+        "company_performance": "Excellent; the company was responsive, provided high-value technical deliverables quickly, and followed up proactively to ensure the client had everything needed for the bank.",
+        "next_best_action": "Mark as a 'nurture' lead in the CRM. Set a follow-up reminder for 30-45 days to check in on the status of their bank loan compliance without being pushy, as the technical work is already prepared for when they are ready to proceed."
+      }
+    }
+  },
+  {
+    "name": "jonathanreyes_82638541269512",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Jonathan Reyes"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Jonathan Reyes",
+        "content": "Good day Spectroplus! I closely follow your page updates. Ask ko lang kung magkano rough estimate niyo per sqm for a house construction build? Details below:\n\nName: Jonathan Reyes\nProject: 2-Storey Modern Farmhouse (approx 180 sqm floor area)\nLocation: Lot 8 Blk 2, Evergreen Estates, Brgy. Dagatan, Amadeo, Cavite\nContact Number: 0919-333-2211\n\nHope to get an idea of the budget range. Salamat!",
+        "timestamp": "July 15, 2026 at 01:13:20 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hello Jonathan! Thank you for inquiring with Spectroplus. We love modern farmhouse designs! For an 180 sqm floor area, our rough estimates range from 4.2M PHP (Standard Finishes) to 5.4M PHP (Premium Finishes). This already covers the complete architectural blueprints, engineering, and building permit processing.",
+        "timestamp": "July 15, 2026 at 02:13:20 PM UTC"
+      },
+      {
+        "sender_name": "Jonathan Reyes",
+        "content": "Wow, perfect! Sige po, standard finishes will do for now para sa estimate. Can you send over a basic floor plan draft layout? Gagawin kasi naming family vacation home ito next year.",
+        "timestamp": "July 16, 2026 at 02:13:20 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Jonathan, as requested, here is the preliminary conceptual floor plan for your 180 sqm Modern Farmhouse. We maximized the open-concept living area to give it that airy, vacation home feel. Let us know your thoughts!",
+        "timestamp": "July 17, 2026 at 02:13:20 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Jonathan! Just following up if you and your family liked the initial layout? We can adjust the kitchen orientation if you prefer a wider view of the garden.",
+        "timestamp": "July 18, 2026 at 02:13:20 PM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Active Pipeline",
+      "summary": "Jonathan Reyes inquired about a 180 sqm 2-storey modern farmhouse in Amadeo, Cavite, with a preference for standard finishes. Spectroplus provided a prompt quote and a preliminary conceptual floor plan. The company has followed up regarding the layout, and the conversation is currently awaiting further feedback from the client.",
+      "analytics": {
+        "user_behavior": "The client shows high intent and clear project specifications, demonstrating a collaborative approach and willingness to review design drafts.",
+        "company_performance": "Excellent responsiveness and proactive communication; the team provided both budget ranges and design conceptualization within 48 hours.",
+        "next_best_action": "Since the client hasn't replied to the layout follow-up, suggest a low-pressure phone call or a virtual meeting to discuss the floor plan's specific features, which often helps move a client from 'viewing drafts' to 'contracting'."
+      }
+    }
+  },
+  {
+    "name": "juandelacruz_7519512512512",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Juan Dela Cruz"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Juan Dela Cruz",
+        "content": "Can I get more information about your prices?",
+        "timestamp": "July 31, 2026 at 12:21:40 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hello Juan! Thank you for reaching out to Spectroplus. We specialize in custom residential design and construction. To give you an idea of the budget, may we ask the location of your lot and your target floor area (sqm)?",
+        "timestamp": "July 31, 2026 at 12:23:20 PM UTC"
+      },
+      {
+        "sender_name": "Juan Dela Cruz",
+        "content": "Mga magkano kaya aabutin kapag 2 storeys na simple lang?",
+        "timestamp": "July 31, 2026 at 12:30:00 PM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Active Pipeline",
+      "summary": "The client is inquiring about pricing for a simple two-story residential build. The company responded promptly with qualifying questions regarding lot location and floor area to provide a more accurate estimate. The conversation is currently pending the client's response to these qualifying questions.",
+      "analytics": {
+        "user_behavior": "The client is in the exploratory phase, showing interest but keeping communication vague by prioritizing general price inquiry over project specifics.",
+        "company_performance": "The company demonstrated high responsiveness and effectively managed the inquiry by steering the client toward providing technical project requirements.",
+        "next_best_action": "Wait for the client's response. If no follow-up occurs within 48 hours, send a gentle nudge requesting the lot location or floor area estimate to continue the design consultation."
+      }
+    }
+  },
+  {
+    "name": "kevinsantos_513129571205125",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Kevin Santos"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Kevin Santos",
+        "content": "Hi Spectroplus, nag-aayos ba kayo ng mga sirang kitchen cabinets sa bahay? Alabang area po.",
+        "timestamp": "July 30, 2026 at 05:40:00 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hello Kevin! Thanks for dropping by our page. Are you looking to do a full kitchen area layout design and interior renovation, or is this for a specific minor carpentry repair work?",
+        "timestamp": "July 30, 2026 at 05:43:20 AM UTC"
+      },
+      {
+        "sender_name": "Kevin Santos",
+        "content": "Ay hindi po buong kusina, ipapa-repair ko lang sana yung mga lumang pinto ng kitchen cabinets namin tsaka papalitan yung mga hinges kasi nasira ng baha. Mga magkano po kaya?",
+        "timestamp": "July 30, 2026 at 06:05:00 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Kevin! Thank you for reaching out. We apologize, but Spectroplus only accepts full structural residential builds, commercial fit-outs, or major interior layout renovations. We do not handle small carpentry repairs or standalone cabinet fixes at this time.",
+        "timestamp": "July 30, 2026 at 06:13:20 AM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "New & Out-of-Scope",
+      "summary": "The client, Kevin Santos, reached out seeking repair services for damaged kitchen cabinet doors and hinges at his Alabang residence following flood damage. Spectroplus responded by clarifying their service scope and identifying that the request is for minor carpentry work. The company subsequently declined the project, noting that they only handle major structural, commercial, or full interior renovation projects.",
+      "analytics": {
+        "user_behavior": "The client is a direct, task-oriented lead looking for a specific, minor repair. He provided clear context regarding the nature of the damage and location, indicating moderate urgency.",
+        "company_performance": "The company performed effectively by quickly qualifying the lead, managing expectations, and politely declining the request to focus on their core business model, avoiding time-wasting site visits.",
+        "next_best_action": "No further action is required, as the client's request falls strictly outside the company's service offerings. To provide good customer service, the company could optionally provide a referral to a trusted local handyman or small-scale carpenter if they have a professional network."
+      }
+    }
+  },
+  {
+    "name": "kevin_mercado_4561457164871",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Kevin Mercado"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Kevin Mercado",
+        "content": "Good day! I would like to request an immediate estimate quotation outline for a commercial space interior project. Specs:\n\nName: Kevin Mercado (Operations Head, Mode Fashion Group)\nProject Type: Clothing Boutique Retail Shop Interior Fit-out (55 sqm raw store layout area)\nAddress: Unit 214, 2nd Level, Upper Mall Expansion, Bonifacio High Street, Taguig City\nContact Number: 0922-888-4433 / (02) 7915-2200\n\nMay basic retail electrical grid layout specifications na kami clear from the mall coordinator panel. Open po ba kayo structural ocular grid alignment verification on Monday morning?",
+        "timestamp": "August 13, 2026 at 03:06:40 PM UTC"
+      },
+      {
+        "sender_name": "Kevin Mercado",
+        "content": "Hi, just checking if you received my inquiry structural request details below? Medyo urgent po sana kasi turnover code constraints na ng mall systems admin component framework this coming week.",
+        "timestamp": "August 14, 2026 at 03:06:40 PM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Unanswered Inbound",
+      "summary": "Kevin Mercado, Operations Head of Mode Fashion Group, reached out regarding a 55 sqm commercial interior fit-out project at Bonifacio High Street in Taguig. He provided specific technical requirements and requested an ocular site visit for Monday morning to align with urgent mall turnover deadlines. The company has failed to respond to his initial inquiry and subsequent follow-up, leaving the lead unaddressed.",
+      "analytics": {
+        "user_behavior": "The client is highly professional, prepared, and under significant time pressure due to strict mall turnover constraints. He provided comprehensive project details immediately, signaling high purchase intent and urgency.",
+        "company_performance": "The company has performed poorly by failing to acknowledge or respond to an urgent, high-value commercial lead for over 24 hours. This lack of responsiveness risks losing the opportunity entirely due to the client's time-sensitive requirements.",
+        "next_best_action": "Immediate contact is required to apologize for the delay. The company must confirm availability for the requested Monday ocular visit or explain scheduling constraints to maintain professional credibility and attempt to save the lead."
+      }
+    }
+  },
+  {
+    "name": "lestersantos_6158912591251",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Engr. Lester Santos"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Engr. Lester Santos",
+        "content": "Good day. Inquire po ako for a commercial structural improvement project framework specification data sheet description. Details:\n\nName: Engr. Lester Santos (Facilities Engineering Lead, Apex Warehousing Corp)\nProject Type: Industrial Mezzanine Floor Office Extension (approx 110 sqm structural steel build additions framework context dynamic outline layout parameters)\nAddress: Blk 4 Phase II, Light Industry Science Park, Biñan, Laguna\nContact Number: 0919-888-2233 / (049) 545-9900\n\nMay approved structural drawing blueprint elements specifications na clear from our corporate safety officer control unit. Open po ba kayo contract layout documentation discussion layout profiles?",
+        "timestamp": "August 05, 2026 at 10:20:00 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hello Engr. Lester! Thank you for the complete specifications description. Building a structural mezzanine extension requires careful structural load calculations to ensure absolute site parameter stability code configuration compliance rules. Attached below is our official contract blueprint structure and preliminary milestone schedule profile map. Let us know if the payment tranches are okay.",
+        "timestamp": "August 05, 2026 at 11:13:20 AM UTC"
+      },
+      {
+        "sender_name": "Engr. Lester Santos",
+        "content": "Nareceive ko na yung structural contract overview draft format layout details. Maganda naman structural terms structure parameters overview, request lang kami minor balance adjustment pattern. Pwede bang hatiin sa dalawang milestones yung framework structural code payment profile sa structural masonry layout blocks setup stage? Para medyo magaan sa cash flow configuration systems operations line panel outline context.",
+        "timestamp": "August 06, 2026 at 11:13:20 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "No problem Engr. Lester! We understand the request adjustment constraint framework details structure. We will ask our legal accounting officer to update the text clauses configuration to split Phase 3 into two smaller progression checkpoints. We will send the revised formal contract draft configuration file within the day.",
+        "timestamp": "August 07, 2026 at 11:13:20 AM UTC"
+      },
+      {
+        "sender_name": "Engr. Lester Santos",
+        "content": "Hello Spectroplus? Any updates on the revised contract text configuration parameters structure sheet? Magpapasched sana kami for mobilization down payment hand-over details framework.",
+        "timestamp": "August 14, 2026 at 11:06:40 AM UTC"
+      },
+      {
+        "sender_name": "Engr. Lester Santos",
+        "content": "Cancel tracking parameters system request framework options project update. Almost 1 month already passed without a reply or document framework revision. We already signed the construction mobilization agreement contract configuration with another building contractor entity this week.",
+        "timestamp": "August 21, 2026 at 11:00:00 AM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Dropped Follow-Up",
+      "summary": "Engr. Lester Santos approached Spectroplus for an industrial mezzanine extension project in Biñan, Laguna, providing detailed structural specifications. The parties reached a preliminary agreement on contract terms, but the client requested a minor payment milestone adjustment. Despite Spectroplus promising a revised contract within a day, they failed to follow up for over a week, leading the client to cancel and sign with a competitor.",
+      "analytics": {
+        "user_behavior": "The client was highly professional, transparent, and ready to mobilize, exhibiting high intent and clear project urgency as an engineering lead.",
+        "company_performance": "Spectroplus exhibited a severe breakdown in communication by failing to deliver a promised document, effectively abandoning a confirmed, high-value industrial lead.",
+        "next_best_action": "Contact the client immediately to apologize for the oversight, acknowledge the error, and ask for feedback on where the process failed to improve future internal lead management workflows."
+      }
+    }
+  },
+  {
+    "name": "mariaelenasantos_98978237986517986",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Maria Elena Santos"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Maria Elena Santos",
+        "content": "Hi Spectroplus team! Inquire sana ako for custom house construction package para sa parents ko. Itatayo po sana sa private lot namin. Details:\n\nName: Maria Elena Santos\nProject: 1-Storey Modern Minimalist Bungalow (approx 90 sqm floor area, senior-friendly design layout)\nLocation: 45 Villa Segovia Street, Brgy. Bayan Luma II, Imus, Cavite\nContact Number: 0918-333-7788\n\nHoping to get a budget range and blueprint processing overview. Text or call me anytime po on my mobile number. Thank you!",
+        "timestamp": "August 16, 2026 at 03:13:20 AM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Unanswered Inbound",
+      "summary": "Maria Elena Santos reached out to inquire about a custom house construction package for a 90 sqm modern minimalist bungalow in Imus, Cavite. The project is intended for her parents and includes specific requirements for a senior-friendly layout. The client provided her contact details and is currently awaiting a budget estimate and an overview of the blueprint processing timeline.",
+      "analytics": {
+        "user_behavior": "High-intent lead; the client provided detailed project specifications, location, and direct contact information, indicating readiness to move forward if the pricing meets her expectations.",
+        "company_performance": "The company has failed to acknowledge or respond to the initial inquiry, representing a significant missed opportunity for a qualified lead.",
+        "next_best_action": "Contact the client immediately via phone or SMS using the provided number to acknowledge receipt of the inquiry, apologize for the delay, and schedule an initial consultation to discuss the blueprint process and preliminary budget."
+      }
+    }
+  },
+  {
+    "name": "maritesdizon_6852735319751",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Marites Dizon"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Marites Dizon",
+        "content": "Hi Spectroplus, nagpapatayo ba kayo ng residential apartment buildings? Magkano magagastos ko more or less sa ganitong capacity? Details:\n\nName: Marites Dizon\nProject: 2-Storey Apartment Complex (8 Studio Units, target for rental income)\nAddress: 142 Alabang-Zapote Road, Brgy. Pamplona Tres, Las Piñas City\nContact Number: 0915-444-8899\n\nReady na po yung lot area for immediate construction build.",
+        "timestamp": "July 13, 2026 at 01:26:40 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hello Ma'am Marites, thanks for the detailed inquiry. An 8-unit studio apartment complex is a great investment! To maximize the unit spaces and proper fire exit pathways, we need to check the frontage width. Can we schedule a site ocular inspection this week?",
+        "timestamp": "July 13, 2026 at 02:26:40 PM UTC"
+      },
+      {
+        "sender_name": "Marites Dizon",
+        "content": "Yes, available ako this coming Friday morning around 10am. Paki-confirm kung pwede kayo para maihabilin ko rin sa caretaker ng property natin.",
+        "timestamp": "July 14, 2026 at 02:26:40 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "That's noted, Ma'am Marites. We have locked in your schedule for Friday at 10:00 AM. Our lead engineer, Arch. Tech, and master plumber will be there to assess the compound layout. See you there!",
+        "timestamp": "July 15, 2026 at 02:26:40 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Ma'am Marites, our engineering team is already on the way to your lot location in Las Piñas. Just checking if we are still good for 10:00 AM today?",
+        "timestamp": "July 16, 2026 at 02:26:40 PM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Active Pipeline",
+      "summary": "The client, Marites Dizon, is seeking to construct an 8-unit studio apartment complex in Las Piñas City and has a lot ready for immediate development. The company responded promptly, scheduled a site inspection, and dispatched an engineering team to the location. The conversation is currently active, with the company confirming the team's arrival for the scheduled Friday site visit.",
+      "analytics": {
+        "user_behavior": "The client shows high intent and readiness, providing specific details, contact information, and being proactive in coordinating with her property caretaker.",
+        "company_performance": "The company has performed excellently, demonstrating a rapid response time, clear communication, and a professional process by sending a specialized team to the site.",
+        "next_best_action": "Ensure the team documents the site visit thoroughly, provides a preliminary assessment or project estimate within 48 hours of the visit, and outlines the next steps for architectural planning."
+      }
+    }
+  },
+  {
+    "name": "markmendoza_12412412412",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Mark Mendoza"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Mark Mendoza",
+        "content": "Hi Spectroplus, inquire sana ako for a complete design and build package. Here are my details:\n\nName: Mark Mendoza\nProject: Custom 2-Storey Modern Minimalist House (approx 150 sqm floor area)\nLocation/Address: Blk 5 Lot 12, Grand Riverside Subdivision, Brgy. Mambog IV, Bacoor, Cavite\nContact Number: 0917-123-4567\n\nHope to get a rough estimate. Thanks!",
+        "timestamp": "July 10, 2026 at 06:51:40 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hello Mark! Thank you for the complete details. Yes, we do custom residential design and build packages. We can definitely work with a 150 sqm floor area on that lot size. Let me compute a rough estimate for you based on our standard finishes.",
+        "timestamp": "July 10, 2026 at 06:56:40 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Based on a 150 sqm floor area with premium standard finishes, the rough estimate would be around 3.5M to 4M PHP. This includes the design, permits, and structural engineering. We can adjust the materials to fit your target budget perfectly.",
+        "timestamp": "July 10, 2026 at 07:25:00 PM UTC"
+      },
+      {
+        "sender_name": "Mark Mendoza",
+        "content": "Sige po, review-hin ko lang muna kasama si misis. Will get back to you ASAP. Sobrang ganda ng mga previous projects niyo na naka-post.",
+        "timestamp": "July 10, 2026 at 07:33:20 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Mark! Just following up if you've had a chance to look at the initial cost breakdown? We can schedule a site visit this coming weekend if you're available.",
+        "timestamp": "July 11, 2026 at 03:33:20 PM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Active Pipeline",
+      "summary": "Mark Mendoza reached out for a design and build package for a 150 sqm 2-storey modern minimalist house in Bacoor, Cavite. Spectroplus responded promptly, providing a rough cost estimate of 3.5M to 4M PHP. The client is currently reviewing the proposal with his spouse, and Spectroplus has proactively reached out to offer a site visit for this upcoming weekend.",
+      "analytics": {
+        "user_behavior": "The client is highly qualified, providing complete project details upfront, and is currently in the decision-making phase with a secondary stakeholder.",
+        "company_performance": "Excellent responsiveness and professionalism; the company provided a quick estimate and a clear call-to-action to move the lead to a site visit.",
+        "next_best_action": "Wait for the client's response to the site visit offer; if no response is received by early next week, follow up with a soft touchpoint focusing on the value of a site assessment versus the rough estimate."
+      }
+    }
+  },
+  {
+    "name": "michellelim_512851251251",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Michelle Lim (Tech Corp)"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Michelle Lim (Tech Corp)",
+        "content": "Hello Spectroplus, I would like to request an inspection and layout quotation for our new branch office site. Here are our project specifications:\n\nName: Michelle Lim (Operations Manager, InnoTech Solutions Inc.)\nProject: Commercial Office Fit-out & Renovation (120 sqm bare layout space, needs drywalls, glass partitions, executive rooms, and network cabling)\nLocation: Unit 902, North Tower, Madrigal Business Park, Alabang, Muntinlupa\nContact Number: 0918-555-6677\n\nWe need to finish the mobilization works within 2 months. Do you have slots available for site ocular this coming Tuesday morning?",
+        "timestamp": "July 28, 2026 at 01:03:20 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Good afternoon, Ms. Michelle! Thank you for considering Spectroplus for your corporate expansion. We have a robust portfolio of office layouts in Muntinlupa. Our estimation team is free to conduct a structural ocular space assessment on Tuesday. I will text you at your contact number to confirm the property manager permit guidelines.",
+        "timestamp": "July 28, 2026 at 01:15:00 PM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Active Pipeline",
+      "summary": "Michelle Lim from InnoTech Solutions is requesting an inspection and layout quotation for a 120 sqm commercial office fit-out in Alabang. The project requires drywalls, glass partitions, and network cabling with a tight 2-month mobilization timeline. Spectroplus has confirmed their interest and scheduled a site ocular for the upcoming Tuesday.",
+      "analytics": {
+        "user_behavior": "High-intent professional lead; provides clear project specifications, site details, and timeline requirements, indicating a high level of readiness to proceed.",
+        "company_performance": "Excellent initial response time of 12 minutes; tone is professional and reassuring, demonstrating proactive engagement by confirming the site visit and next communication steps.",
+        "next_best_action": "Execute the site ocular on Tuesday as promised; prepare a preliminary scope of work (SOW) based on the 120 sqm specs to present immediately after the inspection to maintain the client's momentum."
+      }
+    }
+  },
+  {
+    "name": "nancyvillanueva_80670375913241",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Nancy Villanueva"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Nancy Villanueva",
+        "content": "Hello, inquire po ako para sa pagpapagawa ng bakod at main gate ng bahay namin. Details below:\n\nName: Nancy Villanueva\nProject Type: Perimeter Fence Construction (15 meters length) & Modern Steel Sliding Gate\nAddress: Blk 2 Lot 4, Villa Elena Subdivision, Brgy. Molino III, Bacoor, Cavite\nContact Number: 0922-777-3344\n\nSana matulungan niyo kami para ma-secure yung property property project namin. Salamat.",
+        "timestamp": "July 09, 2026 at 11:53:20 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Good day Ma'am Nancy! Thank you for reaching out to Spectroplus. Yes, we accept perimeter steel gates and structural fencing projects around Cavite. We offer custom laser-cut panel designs or standard modern tubular designs. Which pattern style do you prefer?",
+        "timestamp": "July 10, 2026 at 12:46:40 AM UTC"
+      },
+      {
+        "sender_name": "Nancy Villanueva",
+        "content": "Gusto ko po sana yung minimalist design na matte black powder-coated frame panels. Tapos medyo makapal yung bakal para matibay talaga sa bagyo. Magkano magiging total quotation pag ganun?",
+        "timestamp": "July 11, 2026 at 12:46:40 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Ma'am Nancy, here is the updated itemized quote for the 15-meter fence. Upgrading the gate to a heavy matte-black powder-coated finish brings the total contract cost to 145,000 PHP, inclusive of concrete footing reinforcements and labor.",
+        "timestamp": "July 12, 2026 at 12:46:40 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Ma'am Nancy! Good afternoon. Just checking if you would like to proceed with the heavy gauge BI sheets for the gate panel? We can schedule fabrication works next week if finalized.",
+        "timestamp": "July 14, 2026 at 12:46:40 AM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Active Pipeline",
+      "summary": "Nancy Villanueva is seeking a quotation for a 15-meter perimeter fence and a modern steel sliding gate in Bacoor, Cavite. Spectroplus provided a detailed quote of 145,000 PHP for a high-quality matte black powder-coated finish with concrete reinforcement. The conversation is currently active, with the company proactively following up to secure a fabrication schedule.",
+      "analytics": {
+        "user_behavior": "The client is highly intent-driven, providing complete project details and clear aesthetic preferences early on, indicating a readiness to commit if the price and quality meet expectations.",
+        "company_performance": "The company demonstrated excellent performance by responding quickly to the initial inquiry and providing a clear, itemized quote, followed by a professional follow-up within 48 hours.",
+        "next_best_action": "Since the client has not yet confirmed, provide a sample portfolio of past 'matte black powder-coated' projects to build visual trust, and offer a site inspection visit to finalize technical measurements and move toward a signed contract."
+      }
+    }
+  },
+  {
+    "name": "patriciareyes_587165611251",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Patricia Reyes"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Spectroplus",
+        "content": "Good day Ms. Patricia! Our architectural design framework team has finalized the initial 3D exterior and interior structural rendering layouts for your review. Please see the attached image files below.",
+        "timestamp": "August 05, 2026 at 12:00:00 PM UTC"
+      },
+      {
+        "sender_name": "Patricia Reyes",
+        "content": "Wow!! Ganda ng pagkakagawa niyo sa Master Bedroom layout layout structure. Tamang-tama yung space allocation para sa walk-in closet line.",
+        "timestamp": "August 06, 2026 at 12:15:00 PM UTC"
+      },
+      {
+        "sender_name": "Patricia Reyes",
+        "content": "Sobrang nagustuhan din ni husband yung exterior accents! Request lang sana kami ng konting bawas sa steel frames doon sa floor profile windows. Mas gusto kasi namin yung seamless facade aesthetic if possible.",
+        "timestamp": "August 06, 2026 at 01:00:00 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Got it, Ms. Patricia! We will adjust the balcony layout to use tempered glass panels instead of steel railings, and we'll lighten the wood accent finishes to a natural oak shade. We will send the updated 3D perspective views by Thursday afternoon.",
+        "timestamp": "August 07, 2026 at 12:16:40 PM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Active Pipeline",
+      "summary": "Patricia Reyes is actively collaborating with the design team on her residential project. She expressed high satisfaction with the initial master bedroom layout and exterior design, while requesting minor modifications to the steel window frames for a more seamless aesthetic. The company has acknowledged these requests and committed to providing updated renderings by the upcoming Thursday.",
+      "analytics": {
+        "user_behavior": "The client is highly engaged, provides clear and constructive feedback, and shows strong positive intent toward the design direction.",
+        "company_performance": "The company is performing well, demonstrating quick response times, active listening, and a clear project management timeline.",
+        "next_best_action": "Ensure the updated 3D renderings are delivered on or before Thursday afternoon as promised to maintain momentum and build further trust with the client."
+      }
+    }
+  },
+  {
+    "name": "renatodizon_976813978691761",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Renato Dizon"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Renato Dizon",
+        "content": "Good day! Ask ko lang po sana kung magkano package niyo for custom residential build. Complete info below:\n\nName: Renato Dizon\nProject Type: 2-Storey Modern Single-Detached House (4 Bedrooms)\nLot Location: Blk 9 Lot 22, Avida Settings, Brgy. Molino IV, Bacoor, Cavite\nContact Number: 0917-444-5566\n\nReady na po yung clean lot title at land specifications namin if kailangan niyo mapping data. Hope to hear from you.",
+        "timestamp": "August 17, 2026 at 01:33:20 PM UTC"
+      },
+      {
+        "sender_name": "Renato Dizon",
+        "content": "Hello Spectroplus? Follow up ko lang po itong message ko if ever active pa itong page niyo? Magpapasched sana kami ng ocular inspection. Salamat.",
+        "timestamp": "August 18, 2026 at 01:33:20 PM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Unanswered Inbound",
+      "summary": "The client reached out to inquire about a quote for a 2-storey modern single-detached residential build in Avida Settings, Bacoor, Cavite. They provided complete project details, including lot location and contact information, and followed up 24 hours later requesting an ocular inspection. The company has failed to respond to both the initial inquiry and the follow-up message.",
+      "analytics": {
+        "user_behavior": "The user is a high-intent, prepared lead who has provided all necessary documentation and is actively seeking a consultation and site visit.",
+        "company_performance": "The company has failed to perform, as they have not acknowledged a high-quality lead, potentially resulting in the loss of a significant construction contract.",
+        "next_best_action": "Prioritize an immediate response acknowledging the message, apologizing for the delay, and confirming availability for the requested ocular inspection within the next 48 hours."
+      }
+    }
+  },
+  {
+    "name": "ricardosantos_5616130918376106",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Ricardo Santos"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Ricardo Santos",
+        "content": "Good day! Magtatanong lang sana ako kung nag-gagawa kayo ng structural backyard pavilion layout? Details po:\n\nName: Ricardo Santos\nProject: Modern Open-Air Concrete Pavilion / Gazebo (approx 35 sqm with outdoor kitchen counter)\nLocation: 88 Mahogany Drive, Vista Verde Village, Brgy. San Roque, Antipolo, Rizal\nContact Number: 0908-111-2233\n\nMay basic inspiration layout na ako, hope to discuss details with your designers. Thanks!",
+        "timestamp": "July 08, 2026 at 09:00:00 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hello Ricardo! Welcome to Spectroplus. Yes, we construct premium outdoor concrete structures, pavilions, and custom landscape additions. Based on your dimensions, we can definitely build a wonderful open-air lounge area. Check out this similar outdoor pavilion design project portfolio we completed last quarter.",
+        "timestamp": "July 08, 2026 at 09:53:20 AM UTC"
+      },
+      {
+        "sender_name": "Ricardo Santos",
+        "content": "Wow, ganda! Ang galing ng combination ng concrete columns and wood accents. Pwede bang lagyan natin ng open ceiling with exposed roof trusses doon sa interior design layout? Para magmukhang modern resort lounge talaga.",
+        "timestamp": "July 09, 2026 at 09:53:20 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Yes, we can absolutely integrate an exposed wooden structural truss ceiling with warm pin-lights to achieve that resort lounge look! We have updated the 3D drawing to reflect this change. You can check the final render layout attachment below.",
+        "timestamp": "July 10, 2026 at 09:53:20 AM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hi Sir Ricardo! Just following up if we are good to finalize the material orders? Our structural crew is ready for mobilization anytime you give the go-signal.",
+        "timestamp": "July 12, 2026 at 09:53:20 AM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "Active Pipeline",
+      "summary": "Ricardo Santos reached out for a custom 35 sqm modern open-air concrete pavilion in Antipolo, Rizal, complete with an outdoor kitchen. The company responded promptly, provided a relevant portfolio, and successfully collaborated on design adjustments including exposed roof trusses. The conversation is currently at the mobilization stage, with the company awaiting the client's final go-signal to proceed with material procurement.",
+      "analytics": {
+        "user_behavior": "The client is highly engaged, provides clear project specifications, and actively participates in the design process, indicating high conversion intent.",
+        "company_performance": "The company demonstrated excellent response times and effective consultative selling by promptly providing design modifications and visual renders.",
+        "next_best_action": "If the client does not respond within 48 hours, place a brief, low-pressure phone call to the provided number to confirm if the layout meets all requirements and inquire if there are any specific blockers preventing the final approval."
+      }
+    }
+  },
+  {
+    "name": "ryantorres_7154871257125601",
+    "participants": [
+      {
+        "name": "Spectroplus"
+      },
+      {
+        "name": "Ryan Torres"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Ryan Torres",
+        "content": "Boss tanong lang, may available ba kayong hulugang pabahay sa Cavite? Magkano monthly kapag sa Pag-IBIG fund kinuha?",
+        "timestamp": "July 27, 2026 at 11:13:20 PM UTC"
+      },
+      {
+        "sender_name": "Spectroplus",
+        "content": "Hello Ryan! Spectroplus is a private custom construction contractor. This means you must already own a lot/land property, and then we will customize the house design and handle the actual construction build for you. Do you already have a private lot available?",
+        "timestamp": "July 27, 2026 at 11:16:40 PM UTC"
+      },
+      {
+        "sender_name": "Ryan Torres",
+        "content": "Ah ganoon ba boss, akala ko parang developer kayo na may gawa nang mga bahay na huhulugan buwan-buwan sa Pag-IBIG. Sige salamat po.",
+        "timestamp": "July 27, 2026 at 11:30:00 PM UTC"
+      }
+    ],
+    "analysis": {
+      "category": "New & Out-of-Scope",
+      "summary": "The client inquired about installment-based housing options in Cavite with Pag-IBIG financing. Spectroplus clarified that the firm is a private custom construction contractor requiring the client to own a lot first. Ryan Torres acknowledged the clarification and ended the conversation as he was looking for a pre-built property developer.",
+      "analytics": {
+        "user_behavior": "The user has low intent for custom build services, as they were specifically seeking ready-made developer properties and affordable financing models rather than custom design-build services.",
+        "company_performance": "The company responded quickly and professionally, clearly setting expectations and filtering out a lead that does not match their business model.",
+        "next_best_action": "No further action is required; the lead is unqualified for the company's service offerings. Close the file."
+      }
+    }
+  }
+]

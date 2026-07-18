@@ -6,7 +6,7 @@ source_path = Path("messages/inbox")
 
 
 def main():
-    final_data = {}
+    final_data = []
 
     # 1. Check if source path exists to prevent crashes
     if not source_path.exists():
@@ -17,7 +17,6 @@ def main():
         if item.is_dir():
             print(f"📁 Processing folder: {item.name}")
 
-            conversation_data = {}
             for content in item.iterdir():
                 if content.is_file() and content.suffix == ".json":
                     # Safe reading with UTF-8 encoding
@@ -49,11 +48,12 @@ def main():
                     messages_data.reverse()
 
                     conversation_data = {
-                        # "participants": messages_info.get("participants", []),
+                        "name": item.name,
+                        "participants": messages_info.get("participants", []),
                         "messages": messages_data,
                     }
 
-            final_data[item.name] = conversation_data
+                    final_data.append(conversation_data)
 
     # Save to JSON safely supporting emojis/foreign characters
     output_file = Path("messages_data.json")

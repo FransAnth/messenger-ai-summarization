@@ -69,3 +69,5 @@ ehthumbs.db
 desktop.ini
 
 messages/
+analysis_results.csv
+analysis_results.json

@@ -51,7 +51,7 @@ def main():
 
     # Retry configuration constants
     MAX_RETRIES = 3
-    INITIAL_BACKOFF = 2  # seconds to wait on first failure
+    INITIAL_BACKOFF = 4  # seconds to wait on first failure
 
     # Check if the file actually exists before trying to read it
     if not source_file.exists():

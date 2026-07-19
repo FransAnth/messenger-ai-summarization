@@ -108,9 +108,6 @@ if selected_indices:
         analysis_data = selected_client.get("analysis", {})
         analytics = analysis_data.get("analytics", {})
 
-        # Helper component logic for rendering ultra-clear semantic typography blocks
-        # This completely avoids muddy, dark background textareas.
-
         # 1. Executive Summary - The Heavyweight Card
         st.markdown("### 📝 Executive Summary")
         st.markdown(
@@ -122,6 +119,28 @@ if selected_indices:
                             line-height: 1.6; 
                             margin-bottom: 25px;">
                 {analysis_data.get('summary', 'No summary generated.')}
+            </div>""",
+            unsafe_allow_html=True,
+        )
+
+        # ---> NEW SECTION: Client Details Card <---
+        st.markdown("### 📇 Client Details")
+
+        client_name = analysis_data.get("client_name", "Not provided")
+        address = analysis_data.get("address", "Not provided")
+        contact_number = analysis_data.get("contact_number", "Not provided")
+
+        st.markdown(
+            f"""<div style="border: 1px solid rgba(128, 128, 128, 0.2); 
+                            padding: 15px; 
+                            border-radius: 6px; 
+                            font-size: 16px; 
+                            line-height: 1.5; 
+                            margin-bottom: 20px;
+                            background-color: rgba(255, 255, 255, 0.05);">
+                <strong>👤 Name:</strong> {client_name} <br>
+                <strong>📍 Address:</strong> {address} <br>
+                <strong>📞 Contact:</strong> {contact_number}
             </div>""",
             unsafe_allow_html=True,
         )
@@ -184,8 +203,11 @@ if selected_indices:
                     text = msg.get("content") or ""
                     timestamp = msg.get("timestamp") or ""
 
-                    st.markdown(f"### {sender}:")
-                    st.write(text)
-                    if timestamp:
-                        st.caption(f"🕒 {timestamp}")
-                    st.markdown("---")
+                    # Determine role for styling
+                    role = "assistant" if sender == "Spectroplus" else "user"
+
+                    with st.chat_message(role):
+                        st.markdown(f"**{sender}**")
+                        st.write(text)
+                        if timestamp:
+                            st.caption(f"🕒 {timestamp}")

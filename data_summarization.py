@@ -76,6 +76,9 @@ def main():
             [
                 "Conversation_Name",
                 "Category",
+                "Client_Name",
+                "Address",
+                "Contact_Number",
                 "Summary",
                 "User_Behavior",
                 "Company_Performance",
@@ -112,6 +115,9 @@ def main():
                         [
                             conv_name,
                             ai_data.get("category", ""),
+                            ai_data.get("client_name", ""),
+                            ai_data.get("address", ""),
+                            ai_data.get("contact_number", ""),
                             ai_data.get("summary", ""),
                             analytics.get("user_behavior", ""),
                             analytics.get("company_performance", ""),
@@ -123,6 +129,9 @@ def main():
                     enriched_conversation = conversation.copy()
                     enriched_conversation["analysis"] = {
                         "category": ai_data.get("category", ""),
+                        "client_name": ai_data.get("client_name", ""),
+                        "address": ai_data.get("address", ""),
+                        "contact_number": ai_data.get("contact_number", ""),
                         "summary": ai_data.get("summary", ""),
                         "analytics": analytics,
                     }
